@@ -1,0 +1,14 @@
+{
+  "name": "book-publisher",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A studio for writing, typesetting and exporting books.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
